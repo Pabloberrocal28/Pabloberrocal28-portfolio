@@ -40,12 +40,12 @@ input{
     
 }
 input:hover{
-     background-color: #5e3f0d;
+     color: #5e3f0d;
      
      
 }
 i:hover{
-    background-color: #5e3f0d;
+    color: #5e3f0d;
     padding: 1%;
     cursor: pointer;
 }
